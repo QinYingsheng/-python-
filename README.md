@@ -66,7 +66,7 @@
    - 顶部显示当前dB值
    - 右侧可设置报警阈值）  
 ![截图](screenshots/demo.png)
-(KuGouMusic/1.png)
+![图片描述](KuGouMusic/1.png)  
 
 ---
 
