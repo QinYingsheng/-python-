@@ -65,7 +65,8 @@
    - 实时图表显示声级变化
    - 顶部显示当前dB值
    - 右侧可设置报警阈值）  
-![截图](screenshots/demo.png)  
+![截图](screenshots/demo.png)
+(KuGouMusic/1.png)
 
 ---
 
