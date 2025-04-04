@@ -1,1 +1,1 @@
-pip install pyaudio numpy matplotlib
+pip install pyaudio numpy matplotlib    使用方法"win+r打开运行窗口cmd,在cmd窗口中输入 " pip install pyaudio numpy matplotlib"
