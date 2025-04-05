@@ -75,7 +75,7 @@
 答：检查是否安装了Python，或者重启电脑试试  
 
 **问题2**：怎么配置库？
-答：win+r打开运行窗口cmd,在cmd窗口中输入  "   pip install pyaudio numpy matplotlib "
+答：win+r打开运行窗口输入cmd,在cmd窗口中输入  "   pip install pyaudio numpy matplotlib "
 
 ---
 
