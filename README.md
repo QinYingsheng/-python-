@@ -1,4 +1,5 @@
 > "代码写得好，bug 追得少。" — ChatGPT
+![Morning](https://img.shields.io/badge/-Good%20Morning!-yellow?logo=coffee)
 # 声级计python （声音大小）
 
 ✨ **详细介绍**：这个项目是用来测量声音大小。
