@@ -1,10 +1,8 @@
 # 🎉 项目的介绍 README
 
-![动态标题](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=FF00F7&center=true&vCenter=true&width=500&lines=欢迎+来到+Qin+Python项目！)
+![动态标题](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=FF00F7&center=true&vCenter=true&width=500&lines=欢迎+来到+Qin+Python声级计项目！)
 
 <div align="center">
-  <img src="https://spotify-now-playing.vercel.app/api/spotify" alt="Spotify">
-  <img src="https://weather-icon.vercel.app/api?city=Tokyo" alt="Weather">
 </div>
 
 <details>
