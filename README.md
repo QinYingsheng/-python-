@@ -1,12 +1,4 @@
-# 🎉 项目的介绍 README
 
-![动态标题](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=FF00F7&center=true&vCenter=true&width=500&lines=欢迎+来到+Qin+Python声级计项目！)
-
-<div align="center">
-</div>
-
-<details>
-<summary>
 # 声级计python （声音大小）
 
 ✨ **详细介绍**：这个项目是用来测量声音大小。
