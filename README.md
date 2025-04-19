@@ -1,7 +1,9 @@
 > "代码写得好，bug 追得少。" — ChatGPT
 ![Morning](https://img.shields.io/badge/-Good%20Morning!-yellow?logo=coffee)
+**今日笑话**：  
+  > 为什么程序员总分不清万圣节和圣诞节？  
+  > 因为 Oct 31 == Dec 25！
 # 声级计python （声音大小）
-![Weather](https://dev.qweather.com/](https://dev.qweather.com/)
 
 ✨ **详细介绍**：这个项目是用来测量声音大小。
 ---
