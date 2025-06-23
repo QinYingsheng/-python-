@@ -89,4 +89,4 @@
 或者关注up主：【Qin背书的个人空间-哔哩哔哩】 https://b23.tv/hYHRFzy  
 制作者：@Qin.Ys  2025.4
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=QinYingsheng&show_icons=true)
-[💬 点击留言](https://github.com/-Python-/discussions)
+[💬 点击留言](https://github.com/QinYingsheng/-python-)
